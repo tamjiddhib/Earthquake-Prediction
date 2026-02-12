@@ -62,13 +62,19 @@ These metrics measure prediction accuracy and model reliability.
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Install Dependencies
+## 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
-2️⃣ Run Python Script
+```
+## 2️⃣ Run Python Script
+ ```bash
 python earthquake_prediction.py
-OR Run Using Jupyter Notebook
+```
+## OR Run Using Jupyter Notebook
+ ```bash
+
 jupyter notebook
+```
 🌱 Real-World Impact
 
 Enhances early warning systems
