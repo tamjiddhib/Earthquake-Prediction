@@ -25,6 +25,7 @@ By extracting meaningful statistical features from time-series data, the model i
 - **Target Variable:** Time to Failure  
 - **Feature Engineering:** Mean, Standard Deviation, Max, Min  
 
+---
 
 ## 📁 Project Structure
 ```
@@ -71,6 +72,9 @@ python earthquake_prediction.py
  ```bash
 jupyter notebook
 ```
+
+---
+
 ## 🌱 Real-World Impact
 
 Enhances early warning systems
@@ -80,6 +84,8 @@ Supports disaster preparedness
 Helps reduce economic and human loss
 
 Contributes to resilient infrastructure planning
+
+---
 
 ## 🔮 Future Improvements
 
@@ -91,6 +97,8 @@ Improve feature engineering
 
 Combine satellite data with seismic signals
 
+---
+
 ## 🔗 References
 
 https://www.kaggle.com/c/LANL-Earthquake-Prediction
@@ -98,6 +106,8 @@ https://www.kaggle.com/c/LANL-Earthquake-Prediction
 https://earthquake.usgs.gov/
 
 Los Alamos National Laboratory Publications
+
+---
 
 ## 👨‍💻 Developed By
 
