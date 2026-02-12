@@ -25,10 +25,6 @@ By extracting meaningful statistical features from time-series data, the model i
 - **Target Variable:** Time to Failure  
 - **Feature Engineering:** Mean, Standard Deviation, Max, Min  
 
-> ⚠️ Note: The original dataset is approximately 9GB.  
-> A smaller sample dataset (`sample_data.csv`) is used in this repository for demonstration purposes.
-
----
 
 ## 📁 Project Structure
 Earthquake-Prediction/
@@ -72,10 +68,9 @@ python earthquake_prediction.py
 ```
 ## OR Run Using Jupyter Notebook
  ```bash
-
 jupyter notebook
 ```
-🌱 Real-World Impact
+## 🌱 Real-World Impact
 
 Enhances early warning systems
 
@@ -85,7 +80,7 @@ Helps reduce economic and human loss
 
 Contributes to resilient infrastructure planning
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Implement Deep Learning models (LSTM)
 
@@ -95,7 +90,7 @@ Improve feature engineering
 
 Combine satellite data with seismic signals
 
-🔗 References
+## 🔗 References
 
 https://www.kaggle.com/c/LANL-Earthquake-Prediction
 
@@ -103,7 +98,7 @@ https://earthquake.usgs.gov/
 
 Los Alamos National Laboratory Publications
 
-👨‍💻 Developed By
+## 👨‍💻 Developed By
 
 Tamjid Dhib & Team
 Dr. Subhash University
