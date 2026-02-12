@@ -27,6 +27,7 @@ By extracting meaningful statistical features from time-series data, the model i
 
 
 ## 📁 Project Structure
+```
 Earthquake-Prediction/
 │
 ├── earthquake_prediction.py
@@ -34,7 +35,7 @@ Earthquake-Prediction/
 ├── sample_data.csv
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🤖 Machine Learning Models Used
