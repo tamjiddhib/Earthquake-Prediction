@@ -35,6 +35,7 @@ Earthquake-Prediction/
 ├── Earthquake_Prediction.ipynb
 ├── sample_data.csv
 ├── requirements.txt
+├── final_model.pkl
 └── README.md
 ```
 ---
